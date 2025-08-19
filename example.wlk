@@ -5,14 +5,9 @@ object algoritmo {
     }
 }
 
-object buenosAires
- {
+object buenosAires {}
+object Catamarca{}
+object Mendoza{}
 
- }
-
- object catamarca
- {
-  
- }
 
 
