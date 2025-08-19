@@ -7,4 +7,14 @@ object algoritmo {
 
 object Mendoza {}
 
+object buenosAires
+ {
+
+ }
+
+ object catamarca
+ {
+  
+ }
+
 
