@@ -7,4 +7,5 @@ object algoritmo {
 
 object buenosAires {}
 
-object Santa Fe {}
+object SantaFe {}
+object catamarca {}
