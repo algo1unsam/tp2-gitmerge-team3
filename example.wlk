@@ -7,3 +7,8 @@ object algoritmo {
 
 object buenosAires {}
 object mendoza{}
+object Catamarca{}
+
+
+
+
